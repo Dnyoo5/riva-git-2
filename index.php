@@ -8,5 +8,8 @@
 <body>
     <h1>coba git remover</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, voluptatibus.</p>
+    <ul>
+        <li>Anjay</li>
+    </ul>
 </body>
 </html>
